@@ -1,3 +1,11 @@
+Simple Next.js application that displays prices of top 100 cryptocurrencies by market cap. Data provided by the Coingecko API [coingecko.com/en/api](https://www.coingecko.com/en/api).
+
+## Screenshot
+
+![crypto](/docs/images/crypto.gif)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -6,7 +14,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
+# orgi
 yarn dev
 ```
 
