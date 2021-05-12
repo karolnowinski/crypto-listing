@@ -1,4 +1,4 @@
-Simple Next.js application that displays prices of top 100 cryptocurrencies by market cap. Data provided by the Coingecko API [coingecko.com/en/api](https://www.coingecko.com/en/api).
+Simple Next.js application that displays prices of the top 100 cryptocurrencies by market cap. Data provided by the Coingecko API [coingecko.com/en/api](https://www.coingecko.com/en/api).
 
 ## Screenshot
 
